@@ -1,6 +1,6 @@
 ## Aditya Palit
 
-High school developer working at the intersection of physics, machine learning, and software. I learn by building.
+High school student working at the intersection of physics, machine learning, and software. I learn by building.
 
 I'm a rising senior at Mission San Jose High School in Fremont, CA, headed toward physics and AI/ML. I build full-stack and machine-learning projects, compete at the Gold level of the USA Computing Olympiad, and run independent research applying ML to astrophysics. Recent highlights: 3rd place nationally in the Modeling the Future Challenge, a USA Physics Olympiad Honorable Mention, and an AIME qualification.
 
